@@ -1,5 +1,15 @@
 {
   "dependencies": {
     "csv-writer": "^1.6.0"
-  }
+  },
+  "name": "threat-dragon-parser",
+  "version": "1.0.0",
+  "description": "A parser for automated extraction of threats from a OWASP threat dragon model",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Khoi Tran",
+  "license": "ISC"
 }
