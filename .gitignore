@@ -1,0 +1,3 @@
+*.csv
+*threat.json
+*node_modules
